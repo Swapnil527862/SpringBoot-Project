@@ -17,6 +17,7 @@ public class AdminController {
 		adminlogcheck =0;
 		usernameforclass = "";
 		return "userLogin";
+		syso;
 	}
 	
 	
